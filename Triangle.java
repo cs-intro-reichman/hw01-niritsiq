@@ -11,7 +11,7 @@ public class Triangle {
 		int c=Integer.parseInt(args[2]);
 		
 		if ( (a+b)<c || (a+c)<b || (b+c)<a)
-		System.out.println(a + " , " + b+ " , " + c+ " : " +"false");
-		else System.out.println(a + " , " + b+ " , " + c+ " : " +"true");
+		System.out.println(a + ", " + b+ ", " + c+ ": " +"false");
+		else System.out.println(a + ", " + b+ ", " + c+ ": " +"true");
 	}
 }

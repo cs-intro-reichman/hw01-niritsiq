@@ -16,6 +16,6 @@ public class GenThree {
 		System.out.println(z);
 		min=Math.min(Math.min(x,y),z);
 		
-		System.out.println("the minimal generated number was " +min);
+		System.out.println("The minimal generated number was " +min);
 	}
 }
