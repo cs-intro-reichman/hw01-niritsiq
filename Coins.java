@@ -9,7 +9,7 @@ public class Coins {
 		int cent, quarter;
 		quarter= x/25;
 		cent= x-(quarter*25);
-		System.out.println("use " +  quarter + " quarters "+ "and "+ cent+ " cents");
+		System.out.println("Use " +  quarter + " quarters "+ "and "+ cent+ " cents");
 
 
 	}
